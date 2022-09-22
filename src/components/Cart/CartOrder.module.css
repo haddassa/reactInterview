@@ -1,0 +1,42 @@
+
+.details {
+    float: left;
+    text-align: left;
+}
+.detailsArr {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.inputTextR {
+    border-color: red;
+    width: 50;
+    height: 20px;
+}
+
+.inputTextB {
+    width: 50;
+    height: 20px;
+}
+
+.actions button:hover,
+.actions button:active {
+  background-color: #5a1a01;
+  border-color: #5a1a01;
+  color: white;
+}
+
+.actions .button--alt {
+  color: #8a2b06;
+}
+
+.actions .button {
+  background-color: #8a2b06;
+  color: white;
+}
+
+.warningText {
+    font-size: 0.7rem;
+    font-weight: bold;
+    color: brown;
+}
